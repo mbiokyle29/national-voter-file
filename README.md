@@ -1,8 +1,6 @@
 ![National Voter File](https://d3vv6lp55qjaqc.cloudfront.net/items/231s0n30283j2W2S0u1L/NVF%20small.png?X-CloudApp-Visitor-Id=1336043&v=dfe5cf15)
 
 # National Voter File
-
-
 This project will build a database containing voter files for all fifty states. It uses a data model that represents a national voter files and associated campaign measures in a shared data warehouse. 
 
 ## Get Started
